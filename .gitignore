@@ -1,0 +1,14 @@
+ # Latex stuff
+#############
+*.log
+*.out
+*.synctex.gz
+*.aux
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Misc
+#######
+*.sublime-workspace
